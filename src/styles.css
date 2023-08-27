@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+}
+.formDiv {
+  border: 1px solid black;
+  width: 400px;
+  height: 100px;
+}
+.table {
+  border: black 1 px solid;
+}
